@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 Video & Audio Transcript System
+#  Video & Audio Transcript System
 
 **Turn any audio or video — in any language — into clean, broadcast-standard subtitles.
 Then translate, summarize, and search them, all from your browser.**
@@ -9,7 +9,7 @@ Then translate, summarize, and search them, all from your browser.**
 [![Gradio](https://img.shields.io/badge/Gradio-UI-F97316?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/)
 [![Whisper](https://img.shields.io/badge/Whisper-large--v3-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
 [![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)](https://groq.com/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-Deploy-FFD21E?style=for-the-badge)]([https://huggingface.co/spaces](https://huggingface.co/spaces/Ronxak/Video-and-Audio-Transcript-System))
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-Deploy-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/Ronxak/Video-and-Audio-Transcript-System)
 
 
 </div>
@@ -28,18 +28,18 @@ Then translate, summarize, and search them, all from your browser.**
 
 ## ✨ Features
 
-- **🎙️ Two ways in** — upload an audio/video file **or** record straight from your microphone.
-- **🌍 Any language** — automatic language detection (Whisper supports ~99 languages), tuned for Indian languages (Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu) first.
-- **⏱️ Broadcast-standard subtitles, not raw text** — output follows real subtitling rules: ≤42 chars/line, ≤2 lines per cue, reading-speed limits, minimum/maximum on-screen durations, and automatic splitting of long speech.
-- **🈯 AI translation** — one click translates the subtitles into another language (powered by **Groq**) and exports a **translated SRT** and a **bilingual (stacked) SRT**.
-- **📝 AI summary** — get the **5–7 key points** of the transcript as bullet points, with a responsive loading state.
-- **🔎 Instant transcript search** — find any word or phrase (case-insensitive, **works with non-Latin scripts** like Hindi), with matches highlighted in place and labelled with their timestamps. Runs fully in the browser.
-- **📺 In-browser preview** — play the video back with the generated captions burned over the timeline.
-- **📦 Multiple exports** — `.srt`, `.vtt` (WebVTT), and plain `.txt`, all UTF-8.
+- ** Two ways in** — upload an audio/video file **or** record straight from your microphone.
+- ** Any language** — automatic language detection (Whisper supports ~99 languages), tuned for Indian languages (Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu) first.
+- ** Broadcast-standard subtitles, not raw text** — output follows real subtitling rules: ≤42 chars/line, ≤2 lines per cue, reading-speed limits, minimum/maximum on-screen durations, and automatic splitting of long speech.
+- ** AI translation** — one click translates the subtitles into another language (powered by **Groq**) and exports a **translated SRT** and a **bilingual (stacked) SRT**.
+- ** AI summary** — get the **5–7 key points** of the transcript as bullet points, with a responsive loading state.
+- ** Instant transcript search** — find any word or phrase (case-insensitive, **works with non-Latin scripts** like Hindi), with matches highlighted in place and labelled with their timestamps. Runs fully in the browser.
+- ** In-browser preview** — play the video back with the generated captions burned over the timeline.
+- ** Multiple exports** — `.srt`, `.vtt` (WebVTT), and plain `.txt`, all UTF-8.
 
 ---
 
-## 🧱 Tech Stack
+## ⚙ Tech Stack
 
 | Layer | Technology |
 |------|------------|
