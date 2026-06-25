@@ -1,0 +1,14 @@
+# Transcription engine (bundles ctranslate2 + av for audio/video decoding)
+faster-whisper>=1.0.3
+
+# Web UI
+gradio>=4.44.0
+
+# LLM enhancements (translation + summarization). Groq is the default provider.
+groq>=0.11.0
+
+# Anthropic is still supported for backwards compatibility (LLM_PROVIDER=anthropic)
+anthropic>=0.40.0
+
+# Loads API keys (GROQ_API_KEY / ANTHROPIC_API_KEY) from a local .env file
+python-dotenv>=1.0.1

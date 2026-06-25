@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Secrets / env
+.env
+services.json
+
+# Virtualenvs
+.venv/
+venv/
+
+# Gradio / Hugging Face runtime
+.gradio/
+flagged/
+gradio_cached_examples/
+
+# Generated output (keep any curated examples/)
+outputs/
+*.srt
+*.vtt
+!examples/*.srt
+
+# OS
+.DS_Store
+
+# Media / Test files
+*.mp4
+*.mp3
+*.wav
+*.mkv
+*.mov
+*.avi
+*.m4a
+
+# IDEs and Editors
+.vscode/
+.idea/
+.claude/
+
+# Logs
+*.log
+
+# Virtual environment config
+pyvenv.cfg
