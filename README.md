@@ -16,7 +16,10 @@ Then translate, summarize, and search them, all from your browser.**
 
 ---
 
-## 🎥 Demo
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vimeo.svg" width="22" valign="middle">
+  Demo
+</h2>
 
 Watch the full demo of the **Video & Audio Transcript System** in action.
 
