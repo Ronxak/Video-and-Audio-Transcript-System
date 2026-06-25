@@ -133,10 +133,7 @@ python app.py               # open the local URL it prints (http://127.0.0.1:786
 
 ---
 
-<h2>
-  <img src="https://www.svgrepo.com/show/532191/mouse-click.svg" width="24" align="center">
-  Usage
-</h2>
+## Usage
 
 1. **Upload** an audio/video file **or record** with your microphone.
 2. (Optional) pick the spoken language, or leave it on **Auto-detect**.
