@@ -88,6 +88,20 @@ transcription.py   translation.py     summary.py
 
 ---
 
+## 📝 Assumptions
+
+The implementation is based on the following assumptions:
+
+- **Input quality:** Audio and video inputs contain reasonably clear speech. Extremely noisy recordings, heavy overlapping speech, or poor audio quality may reduce transcription accuracy.
+- **Language detection:** By default, the system relies on Whisper's automatic language detection unless the user explicitly selects the spoken language.
+- **Translation & summarization:** AI translation and summarization require a valid **Groq API key**. Core transcription, subtitle generation, and transcript search remain fully functional without it.
+- **Subtitle formatting:** Subtitles are optimized for readability using broadcast-style guidelines (line length, cue duration, and reading speed) rather than preserving every spoken pause or filler word exactly as uttered.
+- **Supported media:** The application accepts common audio and video formats supported by **FFmpeg** and assumes FFmpeg is available in the runtime environment.
+- **Search behavior:** Transcript search is performed entirely on the client side after transcription, providing instant results without additional server requests.
+- **Deployment target:** The default configuration is designed for local execution or deployment on Hugging Face Spaces. Performance depends on the selected Whisper model and the available CPU/GPU resources.
+
+---
+
 ## 🚀 Quickstart
 
 ### Prerequisites
@@ -176,14 +190,6 @@ Video-and-Audio-Transcript-System/
 ├── LICENSE
 └── README.md
 ```
-
----
-
-## ☁️ Deploy your own (Hugging Face Spaces, free)
-
-1. Create a free [Hugging Face](https://huggingface.co/join) account and a **write** [access token](https://huggingface.co/settings/tokens).
-2. From this folder: `gradio deploy` → choose **CPU basic (free)**.
-3. In the Space **Settings**: add a **secret** `GROQ_API_KEY`, and a **variable** `WHISPER_MODEL=small`.
 
 ---
 
