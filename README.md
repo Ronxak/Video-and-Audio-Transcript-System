@@ -18,9 +18,17 @@ Then translate, summarize, and search them, all from your browser.**
 
 ## 🎥 Demo
 
-[![Watch Demo](assets/demo-thumbnail.png)](https://vimeo.com/1204518933?share=copy&fl=sv&fe=ci)
+Watch the full demo of the **Video & Audio Transcript System** in action.
 
-**🎬 Click the image above to watch the full demo on Vimeo.**
+<p align="center">
+  <a href="https://vimeo.com/1204518933">
+    <img src="tests/Thumbnail_of_demo_video.png" alt="Video & Audio Transcript System Demo" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶ Click the image above to watch the full demo on Vimeo.</strong>
+</p>
 
 ---
 
