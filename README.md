@@ -16,10 +16,7 @@ Then translate, summarize, and search them, all from your browser.**
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vimeo.svg" width="22" valign="middle">
-  Demo
-</h2>
+## Demo
 
 Watch the full demo of the **Video & Audio Transcript System** in action.
 
@@ -35,10 +32,7 @@ Watch the full demo of the **Video & Audio Transcript System** in action.
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="22" valign="middle">
-  Features
-</h2>
+## Features
 
 - **Two ways in** — upload an audio/video file **or** record straight from your microphone.
 - **Any language** — automatic language detection (Whisper supports ~99 languages), tuned for Indian languages (Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu) first.
@@ -51,10 +45,7 @@ Watch the full demo of the **Video & Audio Transcript System** in action.
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackshare.svg" width="22" valign="middle">
-  Tech Stack
-</h2>
+## Tech Stack
 
 | Layer | Technology |
 |------|------------|
@@ -66,10 +57,7 @@ Watch the full demo of the **Video & Audio Transcript System** in action.
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/diagramsdotnet.svg" width="22" valign="middle">
-  Architecture
-</h2>
+## Architecture
 
 A thin UI over a clear, reusable pipeline:
 
@@ -108,10 +96,7 @@ transcription.py   translation.py     summary.py
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bookstack.svg" width="22" valign="middle">
-  Assumptions
-</h2>
+## Assumptions
 
 The implementation is based on the following assumptions:
 
@@ -125,10 +110,7 @@ The implementation is based on the following assumptions:
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/rocket.svg" width="22" valign="middle">
-  Quickstart
-</h2>
+## Quickstart
 
 ### Prerequisites
 - **Python 3.9+**
@@ -152,7 +134,7 @@ python app.py               # open the local URL it prints (http://127.0.0.1:786
 ---
 
 <h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/play.svg" width="22" valign="middle">
+  <img src="https://www.svgrepo.com/show/532191/mouse-click.svg" width="24" align="center">
   Usage
 </h2>
 
@@ -165,10 +147,7 @@ python app.py               # open the local URL it prints (http://127.0.0.1:786
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gear.svg" width="22" valign="middle">
-  Configuration
-</h2>
+## Configuration
 
 All optional, via environment variables or `.env`:
 
@@ -187,10 +166,7 @@ All optional, via environment variables or `.env`:
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/checkmarx.svg" width="22" valign="middle">
-  Testing
-</h2>
+## Testing
 
 No model, network, or API key required — the LLM paths use a mocked client.
 
@@ -203,10 +179,7 @@ Coverage: subtitle timestamps/wrapping/timing/cue-splitting & SRT/VTT output, AP
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/files.svg" width="22" valign="middle">
-  Project Structure
-</h2>
+## Project Structure
 
 ```
 Video-and-Audio-Transcript-System/
@@ -231,9 +204,6 @@ Video-and-Audio-Transcript-System/
 
 ---
 
-<h2>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/opensourceinitiative.svg" width="22" valign="middle">
-  License
-</h2>
+## License
 
 Released under the [MIT License](LICENSE). © 2026 Ronxak.
