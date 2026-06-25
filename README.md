@@ -18,24 +18,22 @@ Then translate, summarize, and search them, all from your browser.**
 
 ## 🎥 Demo
 
-<!-- 📌 TODO: While editing this README on github.com, drag your demo .mp4 into the
-     line below — GitHub uploads it and turns it into a playable video automatically.
-     (Or paste the uploaded video URL here to replace the placeholder.) -->
+[![Watch Demo](assets/demo-thumbnail.png)](https://vimeo.com/1204518933?share=copy&fl=sv&fe=ci)
 
-> 🎬 **Demo video coming soon.** _(Drop your `.mp4` here.)_
+**🎬 Click the image above to watch the full demo on Vimeo.**
 
 ---
 
 ## ✨ Features
 
-- ** Two ways in** — upload an audio/video file **or** record straight from your microphone.
-- ** Any language** — automatic language detection (Whisper supports ~99 languages), tuned for Indian languages (Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu) first.
-- ** Broadcast-standard subtitles, not raw text** — output follows real subtitling rules: ≤42 chars/line, ≤2 lines per cue, reading-speed limits, minimum/maximum on-screen durations, and automatic splitting of long speech.
-- ** AI translation** — one click translates the subtitles into another language (powered by **Groq**) and exports a **translated SRT** and a **bilingual (stacked) SRT**.
-- ** AI summary** — get the **5–7 key points** of the transcript as bullet points, with a responsive loading state.
-- ** Instant transcript search** — find any word or phrase (case-insensitive, **works with non-Latin scripts** like Hindi), with matches highlighted in place and labelled with their timestamps. Runs fully in the browser.
-- ** In-browser preview** — play the video back with the generated captions burned over the timeline.
-- ** Multiple exports** — `.srt`, `.vtt` (WebVTT), and plain `.txt`, all UTF-8.
+- **Two ways in** — upload an audio/video file **or** record straight from your microphone.
+- **Any language** — automatic language detection (Whisper supports ~99 languages), tuned for Indian languages (Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu) first.
+- **Broadcast-standard subtitles, not raw text** — output follows real subtitling rules: ≤42 chars/line, ≤2 lines per cue, reading-speed limits, minimum/maximum on-screen durations, and automatic splitting of long speech.
+- **AI translation** — one click translates the subtitles into another language (powered by **Groq**) and exports a **translated SRT** and a **bilingual (stacked) SRT**.
+- **AI summary** — get the **5–7 key points** of the transcript as bullet points, with a responsive loading state.
+- **Instant transcript search** — find any word or phrase (case-insensitive, **works with non-Latin scripts** like Hindi), with matches highlighted in place and labelled with their timestamps. Runs fully in the browser.
+- **In-browser preview** — play the video back with the generated captions burned over the timeline.
+- **Multiple exports** — `.srt`, `.vtt` (WebVTT), and plain `.txt`, all UTF-8.
 
 ---
 
