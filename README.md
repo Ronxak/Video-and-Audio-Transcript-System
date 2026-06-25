@@ -35,7 +35,10 @@ Watch the full demo of the **Video & Audio Transcript System** in action.
 
 ---
 
-## ✨ Features
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="22" valign="middle">
+  Features
+</h2>
 
 - **Two ways in** — upload an audio/video file **or** record straight from your microphone.
 - **Any language** — automatic language detection (Whisper supports ~99 languages), tuned for Indian languages (Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu) first.
@@ -48,7 +51,10 @@ Watch the full demo of the **Video & Audio Transcript System** in action.
 
 ---
 
-## ⚙ Tech Stack
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackshare.svg" width="22" valign="middle">
+  Tech Stack
+</h2>
 
 | Layer | Technology |
 |------|------------|
@@ -60,7 +66,10 @@ Watch the full demo of the **Video & Audio Transcript System** in action.
 
 ---
 
-## 🏗️ Architecture
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/diagramsdotnet.svg" width="22" valign="middle">
+  Architecture
+</h2>
 
 A thin UI over a clear, reusable pipeline:
 
@@ -99,7 +108,10 @@ transcription.py   translation.py     summary.py
 
 ---
 
-## 📝 Assumptions
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bookstack.svg" width="22" valign="middle">
+  Assumptions
+</h2>
 
 The implementation is based on the following assumptions:
 
@@ -113,7 +125,10 @@ The implementation is based on the following assumptions:
 
 ---
 
-## 🚀 Quickstart
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/rocket.svg" width="22" valign="middle">
+  Quickstart
+</h2>
 
 ### Prerequisites
 - **Python 3.9+**
@@ -136,7 +151,10 @@ python app.py               # open the local URL it prints (http://127.0.0.1:786
 
 ---
 
-## 🎛️ Usage
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/play.svg" width="22" valign="middle">
+  Usage
+</h2>
 
 1. **Upload** an audio/video file **or record** with your microphone.
 2. (Optional) pick the spoken language, or leave it on **Auto-detect**.
@@ -147,7 +165,10 @@ python app.py               # open the local URL it prints (http://127.0.0.1:786
 
 ---
 
-## ⚙️ Configuration
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gear.svg" width="22" valign="middle">
+  Configuration
+</h2>
 
 All optional, via environment variables or `.env`:
 
@@ -166,7 +187,10 @@ All optional, via environment variables or `.env`:
 
 ---
 
-## ✅ Testing
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/checkmarx.svg" width="22" valign="middle">
+  Testing
+</h2>
 
 No model, network, or API key required — the LLM paths use a mocked client.
 
@@ -179,7 +203,10 @@ Coverage: subtitle timestamps/wrapping/timing/cue-splitting & SRT/VTT output, AP
 
 ---
 
-## 🗂️ Project Structure
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/files.svg" width="22" valign="middle">
+  Project Structure
+</h2>
 
 ```
 Video-and-Audio-Transcript-System/
@@ -204,6 +231,9 @@ Video-and-Audio-Transcript-System/
 
 ---
 
-## 📄 License
+<h2>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/opensourceinitiative.svg" width="22" valign="middle">
+  License
+</h2>
 
 Released under the [MIT License](LICENSE). © 2026 Ronxak.
