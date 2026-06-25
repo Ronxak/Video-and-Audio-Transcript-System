@@ -9,7 +9,7 @@ Then translate, summarize, and search them, all from your browser.**
 [![Gradio](https://img.shields.io/badge/Gradio-UI-F97316?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/)
 [![Whisper](https://img.shields.io/badge/Whisper-large--v3-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
 [![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)](https://groq.com/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-Deploy-FFD21E?style=for-the-badge)](https://huggingface.co/spaces)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-Deploy-FFD21E?style=for-the-badge)]([https://huggingface.co/spaces](https://huggingface.co/spaces/Ronxak/Video-and-Audio-Transcript-System))
 
 
 </div>
