@@ -10,12 +10,7 @@ Then translate, summarize, and search them, all from your browser.**
 [![Whisper](https://img.shields.io/badge/Whisper-large--v3-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
 [![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)](https://groq.com/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-Deploy-FFD21E?style=for-the-badge)](https://huggingface.co/spaces)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 
-![Tests](https://img.shields.io/badge/tests-55%20passing-brightgreen?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/Ronxak/Video-and-Audio-Transcript-System?style=flat-square)
-![Repo size](https://img.shields.io/github/repo-size/Ronxak/Video-and-Audio-Transcript-System?style=flat-square)
-![Top language](https://img.shields.io/github/languages/top/Ronxak/Video-and-Audio-Transcript-System?style=flat-square)
 
 </div>
 
@@ -48,8 +43,8 @@ Then translate, summarize, and search them, all from your browser.**
 
 | Layer | Technology |
 |------|------------|
-| **Speech-to-text** | ![Whisper](https://img.shields.io/badge/faster--whisper-Whisper%20large--v3-412991?logo=openai&logoColor=white) (CTranslate2) |
-| **LLM (translate + summarize)** | ![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-F55036) · ![Anthropic](https://img.shields.io/badge/Anthropic-Claude%20(optional)-D97757) |
+| **Speech-to-text** | ![Whisper](https://img.shields.io/badge/faster--whisper-Whisper%20large--v3-412991?logo=openai&logoColor=white) |
+| **LLM (translate + summarize)** | ![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-F55036) |
 | **Web UI** | ![Gradio](https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=white) |
 | **Search** | ![JavaScript](https://img.shields.io/badge/Vanilla%20JS-client--side-F7DF1E?logo=javascript&logoColor=black) |
 | **Language / Packaging** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) · ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
